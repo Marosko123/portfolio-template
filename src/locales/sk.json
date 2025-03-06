@@ -1,0 +1,131 @@
+{
+  "myData": {
+    "degree": "Bc.",
+    "name": "Maroš",
+    "surname": "Bednár",
+    "age": 23,
+    "address": "Pod Vápenicou 727/7, 028 01 Trstená",
+    "country": "Slovensko",
+    "email": "bednarmaros341@gmail.com",
+    "phone": "+421 911 670 188",
+    "website": "https://www.itbednar.sk",
+    "github": "https://github.com/Marosko123",
+    "linkedin": "https://www.linkedin.com/in/marosbednar/",
+    "instagram": "https://www.instagram.com/bednar.maros/",
+    "facebook": "https://www.facebook.com/maros.bednar8",
+    "meetandlearn": "https://www.doucma.sk/272129-doucovanie-informatika-a-matematika-su-so-mnou-hracka",
+    "field": "Informatika",
+    "school": "Fakulta Informatiky a Informačných Technológií STU v Bratislave",
+    "company": "Maroš Bednár",
+    "ico": "56256795",
+    "dic": "1127895263"
+  },
+  "nav": {
+    "about": "O mne",
+    "services": "Služby",
+    "contact": "Kontakt",
+    "portfolio": "Portfólio"
+  },
+  "footer": {
+    "copyright": "Všetky práva vyhradené."
+  },
+  "sections": {
+    "about": {
+      "title": "O mne",
+      "description": "Mám 23 rokov, doučujem matematiku a programovanie...",
+      "detailedIntro": "Volám sa Maroš Bednár a som študentom Ing. stupňa na FIIT STU v Bratislave, kde sa venujem IT a programovaniu. Už 6 rokov poskytujem doučovanie, špecializujem sa na IT, matematiku a osobnostný rozvoj. Popri štúdiu už viac ako 3 roky pracujem ako programátor webových technológií, mobilných aplikácií a hier.",
+      "specialFocus": "Poď objaviť krásu matematiky, programovania a rozvoja osobných zručností! Teším sa na spoluprácu."
+    },
+    "services": {
+      "title": "Služby",
+      "description": "Ponúkam doučovanie z matematiky a informatiky...",
+      "mainBenefitsTitle": "HLAVNÉ VÝHODY SPOLUPRÁCE",
+      "mainBenefits": [
+        {
+          "title": "Individuálny prístup a psychológia učenia",
+          "text": "Každý študent je jedinečný. Prispôsobujem hodiny spôsobu, akým najlepšie vnímate učivo, sledujem Vaše myslenie a hľadám najvhodnejšie prístupy. Pomáham zvládať stres a pripravujem na skúšky s dôrazom na psychickú pohodu."
+        },
+        {
+          "title": "Time management a efektívne učenie",
+          "text": "Pre študentov, ktorí chcú zvýšiť efektivitu, ponúkam overené techniky efektívneho učenia a plánovania času. Naučíme sa, nielen čo, ale aj ako študovať, aby bol každý moment učenia produktívny."
+        },
+        {
+          "title": "Skúsenosti a výsledky",
+          "text": "Mám za sebou viac ako 1000 odučených hodín a množstvo spokojných študentov, ktorých som pripravil na prijímačky, MONITOR, maturitu či ďalšie náročné testy."
+        },
+        {
+          "title": "Kvalitná príprava s praktickými projektmi v IT",
+          "text": "Pre študentov z IT ponúkam praktické projekty ako tvorba webstránok (HTML, CSS, JavaScript, VueJS) a serverové technológie (Python, Java, SQL) – skvelá príprava na budúcu kariéru."
+        },
+        {
+          "title": "Flexibilita: Online aj osobne",
+          "text": "Doučujem online aj osobne, ponúkam individuálne i skupinové hodiny za výhodné ceny. Skupinové hodiny podporujú spoluprácu, čo je dôležité v budúcom zamestnaní."
+        },
+        {
+          "title": "Vlastné materiály a pravidelný prehľad pokroku",
+          "text": "Každému študentovi vytváram poznámky z hodín a pravidelne informujem rodičov o pokroku. Overujem vedomosti pravidelnými testami."
+        }
+      ],
+      "specializationTitle": "MOJA ŠPECIALIZÁCIA",
+      "specializationText": "Matematika (od ZŠ po VŠ), Informatika (ZŠ, SŠ, VŠ aj prax), Programovacie jazyky (C, C++, C#, Java, Python, JavaScript, TypeScript, Dart, SQL, Git), Webový vývoj (HTML, CSS, VueJS, Angular), Mobilný vývoj (Flutter), Kancelárske nástroje (MS Office), Kreatívne nástroje (Imagine, Scratch, Minecraft, Roblox, Unity)."
+    },
+    "portfolio": {
+      "title": "Portfólio",
+      "description": "Ponúkam doučovanie z matematiky a informatiky...",
+      "photosAndCertificates": "Fotky a certifikáty"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "description": "Môžete ma kedykoľvek kontaktovať emailom alebo telefonicky...",
+      "textMe": "V prípade záujmu ma kontaktujte na ",
+      "callMe": " alebo mi zavolajte na ",
+      "send": "Odoslať"
+    },
+    "pricing": {
+      "title": "Cenník lekcií",
+      "trialLesson": {
+        "name": "Skúšobná lekcia",
+        "time": "15 min",
+        "price": "Zadarmo",
+        "info": "Ak ťa môj profil dostatočne nepresvedčil, ponúkam ti skúšobnú lekciu úplne free."
+      },
+      "standardLesson": {
+        "name": "Štandardná lekcia",
+        "time": "50 min",
+        "price": "40 €",
+        "info": "S individuálnym prístupom ti vysvetlím všetko, čo budeš potrebovať."
+      },
+      "discountOffer": {
+        "name": "Výhodná ponuka",
+        "time": "10 lekcií",
+        "price": "350 €",
+        "discountInfo": "Zaplať 10 hodín a ušetríš 50€! Balíček je vhodný pre cieľavedomých študentov, ktorí sa chcú dlhodobo zlepšovať. Termíny lekcií si dodatočne naplánujeme.",
+        "pricePerLesson": "35 € / 50 min"
+      },
+      "groupLesson": {
+        "name": "Skupinová lekcia",
+        "time": "50 min",
+        "price": "30 € / 1 osoba (pri 2 účastníkoch), 25 € (3 účastníci), 20 € (4 účastníci)",
+        "info": "Ak chceš ušetriť, ponúkam výhodnú skupinovú lekciu pre teba a tvojich priateľov. Pre viac informácií ma kontaktuj."
+      }
+    },
+    "references": {
+      "title": "Referencie",
+      "intro": "Pozrite si hodnotenia mojich študentov.",
+      "items": [
+        {
+          "name": "Richard Á.",
+          "lessonsCount": "8 odučených lekcií",
+          "review": "Ďakujeme veľmi pekne, že sme našli niekoho, s kým môjho syna matematika baví a vždy sa teší na doučovanie. Maroš je super, priateľský a trpezlivý, učivo je zrozumiteľne vysvetlené a pochopené. Tešíme sa na dlhodobú spoluprácu!",
+          "tutorResponse": "Ďakujem pekne, vždy vám rád pomôžem ;)"
+        },
+        {
+          "name": "Jozef B.",
+          "lessonsCount": "3 odučené lekcie",
+          "review": "Vďaka Marošovi som dal test na jednotku. Díky moc. Určite odporúčam a keď bude ďalší test tak píšem.",
+          "tutorResponse": "Ďakujem za referenciu :) s radosťou pomôžem aj nabudúce"
+        }
+      ]
+    }
+  }
+}

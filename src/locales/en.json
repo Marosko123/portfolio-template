@@ -1,0 +1,131 @@
+{
+  "myData": {
+    "degree": "BSc.",
+    "name": "Maroš",
+    "surname": "Bednár",
+    "age": 23,
+    "address": "Pod Vápenicou 727/7, 028 01 Trstená",
+    "country": "Slovakia",
+    "email": "bednarmaros341@gmail.com",
+    "phone": "+421 911 670 188",
+    "website": "https://www.itbednar.sk",
+    "github": "https://github.com/Marosko123",
+    "linkedin": "https://www.linkedin.com/in/marosbednar/",
+    "instagram": "https://www.instagram.com/bednar.maros/",
+    "facebook": "https://www.facebook.com/maros.bednar8",
+    "meetandlearn": "https://www.doucma.sk/272129-doucovanie-informatika-a-matematika-su-so-mnou-hracka",
+    "field": "Informatics",
+    "school": "Faculty of Informatics and Information Technologies, STU in Bratislava",
+    "company": "Maroš Bednár",
+    "ico": "56256795",
+    "dic": "1127895263"
+  },
+  "nav": {
+    "about": "About Me",
+    "services": "Services",
+    "contact": "Contact",
+    "portfolio": "Portfolio"
+  },
+  "footer": {
+    "copyright": "All rights reserved."
+  },
+  "sections": {
+    "about": {
+      "title": "About Me",
+      "description": "I am 23 years old, I tutor mathematics and programming...",
+      "detailedIntro": "My name is Maroš Bednár and I am a Master's student at FIIT STU in Bratislava, where I focus on IT and programming. I have been tutoring for 6 years, specializing in IT, mathematics, and personal development. In addition to my studies, I have worked for over 3 years as a programmer in web technologies, mobile applications, and games.",
+      "specialFocus": "Come discover the beauty of mathematics, programming, and personal skill development! I look forward to collaborating with you."
+    },
+    "services": {
+      "title": "Services",
+      "description": "I offer tutoring in mathematics and computer science...",
+      "mainBenefitsTitle": "MAIN BENEFITS OF COLLABORATION",
+      "mainBenefits": [
+        {
+          "title": "Individual Approach and Learning Psychology",
+          "text": "Every student is unique. I tailor lessons to the way you best absorb the material, monitor your thinking, and seek the most suitable methods. I help manage stress and prepare you for exams with an emphasis on mental well-being."
+        },
+        {
+          "title": "Time Management and Effective Learning",
+          "text": "For students who want to boost their efficiency, I offer proven techniques for effective learning and time management. We will learn not only what to study but also how to study so that every moment is productive."
+        },
+        {
+          "title": "Experience and Results",
+          "text": "I have over 1000 tutoring hours and numerous satisfied students whom I have prepared for entrance exams, MONITOR, graduation, and other challenging tests."
+        },
+        {
+          "title": "Quality Preparation with Practical IT Projects",
+          "text": "For IT students, I offer practical projects such as creating websites (HTML, CSS, JavaScript, VueJS) and server technologies (Python, Java, SQL) – an excellent preparation for a future career."
+        },
+        {
+          "title": "Flexibility: Online and In-person",
+          "text": "I offer tutoring both online and in-person, with individual and group lessons at competitive prices. Group lessons promote collaboration, which is important for future employment."
+        },
+        {
+          "title": "Customized Materials and Regular Progress Updates",
+          "text": "I create lesson notes for each student and regularly update parents on progress. I assess knowledge through regular tests."
+        }
+      ],
+      "specializationTitle": "MY SPECIALIZATION",
+      "specializationText": "Mathematics (from elementary to university), Informatics (elementary, secondary, higher education, and practical experience), Programming languages (C, C++, C#, Java, Python, JavaScript, TypeScript, Dart, SQL, Git), Web development (HTML, CSS, VueJS, Angular), Mobile development (Flutter), Office tools (MS Office), Creative tools (Imagine, Scratch, Minecraft, Roblox, Unity)."
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "description": "I offer tutoring in mathematics and computer science...",
+      "photosAndCertificates": "Photos and Certificates"
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "You can contact me at any time via email or phone...",
+      "textMe": "If you're interested, contact me at ",
+      "callMe": " or call me at ",
+      "send": "Send"
+    },
+    "pricing": {
+      "title": "Lesson Pricing",
+      "trialLesson": {
+        "name": "Trial Lesson",
+        "time": "15 min",
+        "price": "Free",
+        "info": "If my profile hasn't convinced you enough, I offer you a completely free trial lesson."
+      },
+      "standardLesson": {
+        "name": "Standard Lesson",
+        "time": "50 min",
+        "price": "40 €",
+        "info": "With an individual approach, I'll explain everything you need."
+      },
+      "discountOffer": {
+        "name": "Special Offer",
+        "time": "10 lessons",
+        "price": "350 €",
+        "discountInfo": "Pay for 10 lessons and save 50€! This package is ideal for determined students who want to improve over the long term. Lesson schedules will be arranged separately.",
+        "pricePerLesson": "35 € / 50 min"
+      },
+      "groupLesson": {
+        "name": "Group Lesson",
+        "time": "50 min",
+        "price": "30 € per person (with 2 participants), 25 € (3 participants), 20 € (4 participants)",
+        "info": "If you want to save, I offer an attractive group lesson for you and your friends. Contact me for more information."
+      }
+    },
+    "references": {
+      "title": "References",
+      "intro": "Check out my students' reviews.",
+      "items": [
+        {
+          "name": "Richard Á.",
+          "lessonsCount": "8 lessons taught",
+          "review": "Thank you very much for helping us find someone with whom my son enjoys mathematics and always looks forward to tutoring. Maroš is great, friendly, and patient; the material is explained clearly and comprehensibly. We look forward to long-term cooperation!",
+          "tutorResponse": "Thank you very much, I'm always happy to help ;)"
+        },
+        {
+          "name": "Jozef B.",
+          "lessonsCount": "3 lessons taught",
+          "review": "Thanks to Maroš, I passed the test on my first try. Thanks a lot. I definitely recommend him, and I'll reach out for the next test.",
+          "tutorResponse": "Thank you for the reference :) I'm happy to help again next time."
+        }
+      ]
+    }
+  }
+}

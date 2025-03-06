@@ -1,0 +1,131 @@
+{
+  "myData": {
+    "degree": "B.Sc.",
+    "name": "Maroš",
+    "surname": "Bednár",
+    "age": 23,
+    "address": "Pod Vápenicou 727/7, 028 01 Trstená",
+    "country": "Slowakei",
+    "email": "bednarmaros341@gmail.com",
+    "phone": "+421 911 670 188",
+    "website": "https://www.itbednar.sk",
+    "github": "https://github.com/Marosko123",
+    "linkedin": "https://www.linkedin.com/in/marosbednar/",
+    "instagram": "https://www.instagram.com/bednar.maros/",
+    "facebook": "https://www.facebook.com/maros.bednar8",
+    "meetandlearn": "https://www.doucma.sk/272129-doucovanie-informatika-a-matematika-su-so-mnou-hracka",
+    "field": "Informatik",
+    "school": "Fakultät für Informatik und Informationstechnologien der STU in Bratislava",
+    "company": "Maroš Bednár",
+    "ico": "56256795",
+    "dic": "1127895263"
+  },
+  "nav": {
+    "about": "Über mich",
+    "services": "Dienstleistungen",
+    "contact": "Kontakt",
+    "portfolio": "Portfolio"
+  },
+  "footer": {
+    "copyright": "Alle Rechte vorbehalten."
+  },
+  "sections": {
+    "about": {
+      "title": "Über mich",
+      "description": "Ich bin 23 Jahre alt, ich gebe Nachhilfe in Mathematik und Programmierung...",
+      "detailedIntro": "Mein Name ist Maroš Bednár und ich bin Masterstudent an der FIIT STU in Bratislava, wo ich mich auf IT und Programmierung konzentriere. Ich gebe seit 6 Jahren Nachhilfe und spezialisiere mich auf IT, Mathematik und persönliche Entwicklung. Neben meinem Studium arbeite ich seit über 3 Jahren als Programmierer in Webtechnologien, mobilen Anwendungen und Spielen.",
+      "specialFocus": "Entdecken Sie die Schönheit der Mathematik, Programmierung und persönlichen Fähigkeiten! Ich freue mich auf die Zusammenarbeit."
+    },
+    "services": {
+      "title": "Dienstleistungen",
+      "description": "Ich biete Nachhilfe in Mathematik und Informatik an...",
+      "mainBenefitsTitle": "HAUPTVORTEILE DER ZUSAMMENARBEIT",
+      "mainBenefits": [
+        {
+          "title": "Individueller Ansatz und Lernpsychologie",
+          "text": "Jeder Schüler ist einzigartig. Ich passe den Unterricht an Ihre Art des Lernens an, beobachte Ihr Denkvermögen und wähle die geeignetsten Methoden aus. Ich helfe, Stress zu bewältigen und bereite Sie mit Fokus auf Ihr Wohlbefinden auf Prüfungen vor."
+        },
+        {
+          "title": "Zeitmanagement und effektives Lernen",
+          "text": "Für Schüler, die ihre Effizienz steigern möchten, biete ich bewährte Techniken für effektives Lernen und Zeitmanagement an. Wir lernen nicht nur, was, sondern auch, wie man lernt, damit jede Lerneinheit produktiv ist."
+        },
+        {
+          "title": "Erfahrung und Ergebnisse",
+          "text": "Ich habe über 1000 Nachhilfestunden absolviert und zahlreiche zufriedene Schüler, die ich auf Aufnahmeprüfungen, MONITOR, das Abitur oder andere anspruchsvolle Prüfungen vorbereitet habe."
+        },
+        {
+          "title": "Qualitätsvorbereitung mit praktischen IT-Projekten",
+          "text": "Für IT-Schüler biete ich praktische Projekte an, wie das Erstellen von Webseiten (HTML, CSS, JavaScript, VueJS) und Servertechnologien (Python, Java, SQL) – eine hervorragende Vorbereitung auf eine zukünftige Karriere."
+        },
+        {
+          "title": "Flexibilität: Online und persönlich",
+          "text": "Ich biete Nachhilfe sowohl online als auch persönlich an, mit Einzel- und Gruppenunterricht zu wettbewerbsfähigen Preisen. Gruppenunterricht fördert die Zusammenarbeit, was für die berufliche Zukunft wichtig ist."
+        },
+        {
+          "title": "Eigene Materialien und regelmäßige Fortschrittsberichte",
+          "text": "Ich erstelle für jeden Schüler Unterrichtsmaterialien und informiere die Eltern regelmäßig über den Fortschritt. Das Wissen wird durch regelmäßige Tests überprüft."
+        }
+      ],
+      "specializationTitle": "MEINE SPEZIALISIERUNG",
+      "specializationText": "Mathematik (von der Grundschule bis zur Universität), Informatik (Grundschule, weiterführende Schule, Hochschule und praktische Erfahrung), Programmiersprachen (C, C++, C#, Java, Python, JavaScript, TypeScript, Dart, SQL, Git), Webentwicklung (HTML, CSS, VueJS, Angular), mobile Entwicklung (Flutter), Büroanwendungen (MS Office), kreative Werkzeuge (Imagine, Scratch, Minecraft, Roblox, Unity)."
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "description": "Ich biete Nachhilfe in Mathematik und Informatik an...",
+      "photosAndCertificates": "Fotos und Zertifikate"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "description": "Sie können mich jederzeit per E-Mail oder Telefon kontaktieren...",
+      "textMe": "Bei Interesse kontaktieren Sie mich unter ",
+      "callMe": " oder rufen Sie mich an unter ",
+      "send": "Senden"
+    },
+    "pricing": {
+      "title": "Preise für Unterrichtsstunden",
+      "trialLesson": {
+        "name": "Probestunde",
+        "time": "15 Min",
+        "price": "Kostenlos",
+        "info": "Wenn mein Profil Sie nicht überzeugt hat, biete ich Ihnen eine völlig kostenlose Probestunde an."
+      },
+      "standardLesson": {
+        "name": "Standardstunde",
+        "time": "50 Min",
+        "price": "40 €",
+        "info": "Mit einem individuellen Ansatz erkläre ich Ihnen alles, was Sie benötigen."
+      },
+      "discountOffer": {
+        "name": "Sonderangebot",
+        "time": "10 Stunden",
+        "price": "350 €",
+        "discountInfo": "Zahlen Sie für 10 Stunden und sparen Sie 50€! Dieses Paket ist ideal für zielstrebige Schüler, die sich langfristig verbessern möchten. Die Unterrichtstermine werden separat vereinbart.",
+        "pricePerLesson": "35 € / 50 Min"
+      },
+      "groupLesson": {
+        "name": "Gruppenstunde",
+        "time": "50 Min",
+        "price": "30 € pro Person (bei 2 Teilnehmern), 25 € (bei 3 Teilnehmern), 20 € (bei 4 Teilnehmern)",
+        "info": "Wenn Sie sparen möchten, biete ich eine attraktive Gruppenstunde für Sie und Ihre Freunde an. Für weitere Informationen kontaktieren Sie mich."
+      }
+    },
+    "references": {
+      "title": "Referenzen",
+      "intro": "Sehen Sie sich die Bewertungen meiner Schüler an.",
+      "items": [
+        {
+          "name": "Richard Á.",
+          "lessonsCount": "8 unterrichtete Stunden",
+          "review": "Vielen Dank, dass wir jemanden gefunden haben, mit dem mein Sohn Spaß an Mathematik hat und sich immer auf den Unterricht freut. Maroš ist großartig, freundlich und geduldig; der Unterricht wird klar und verständlich erklärt. Wir freuen uns auf eine langfristige Zusammenarbeit!",
+          "tutorResponse": "Vielen Dank, ich helfe Ihnen immer gerne ;)"
+        },
+        {
+          "name": "Jozef B.",
+          "lessonsCount": "3 unterrichtete Stunden",
+          "review": "Dank Maroš habe ich den Test beim ersten Mal bestanden. Vielen Dank. Ich empfehle ihn auf jeden Fall, und ich werde mich bei einem weiteren Test wieder melden.",
+          "tutorResponse": "Vielen Dank für die Rückmeldung :) Ich helfe Ihnen auch beim nächsten Mal gerne."
+        }
+      ]
+    }
+  }
+}
