@@ -32,10 +32,11 @@
   },
   "sections": {
     "about": {
-      "title": "O mne",
+      "title": "Ahoj, ja som Maroš!",
       "description": "Mám 23 rokov, doučujem matematiku a programovanie...",
       "detailedIntro": "Volám sa Maroš Bednár a som študentom Ing. stupňa na FIIT STU v Bratislave, kde sa venujem IT a programovaniu. Už 6 rokov poskytujem doučovanie, špecializujem sa na IT, matematiku a osobnostný rozvoj. Popri štúdiu už viac ako 3 roky pracujem ako programátor webových technológií, mobilných aplikácií a hier.",
-      "specialFocus": "Poď objaviť krásu matematiky, programovania a rozvoja osobných zručností! Teším sa na spoluprácu."
+      "specialFocus": "Poď objaviť krásu matematiky, programovania a rozvoja osobných zručností! Teším sa na spoluprácu.",
+      "contactButton": "Kontaktuj ma!"
     },
     "services": {
       "title": "Služby",

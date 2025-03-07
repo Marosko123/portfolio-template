@@ -1,8 +1,8 @@
 <template>
-  <nav class="bg-blue-600 text-white py-4 px-6 flex justify-between items-center sticky top-0">
-    <div class="font-bold text-xl">Moje Portfolio</div>
+  <nav class="bg-slate-950 text-white py-4 px-6 flex justify-between items-center sticky top-0">
+    <div class="text-gold font-bold text-xl">Moje Portfolio</div>
 
-    <div class="space-x-4">
+    <div class="space-x-4 text-neutral-100 text-lg font-bold">
       <a href="#section1" class="hover:underline" @click="scrollToSection(0)">{{ t('nav.about') }}</a>
       <a href="#section2" class="hover:underline" @click="scrollToSection(1)">{{ t('nav.portfolio') }}</a>
       <a href="#section3" class="hover:underline" @click="scrollToSection(2)">{{ t('nav.services') }}</a>
@@ -69,6 +69,4 @@ function scrollToSection(index: number) {
 }
 </script>
 
-<style scoped>
-/* Additional styling if needed */
-</style>
+<style scoped></style>
