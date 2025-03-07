@@ -6,7 +6,8 @@
       <a href="#section1" class="hover:underline" @click="scrollToSection(0)">{{ t('nav.about') }}</a>
       <a href="#section2" class="hover:underline" @click="scrollToSection(1)">{{ t('nav.portfolio') }}</a>
       <a href="#section3" class="hover:underline" @click="scrollToSection(2)">{{ t('nav.services') }}</a>
-      <a href="#section4" class="hover:underline" @click="scrollToSection(3)">{{ t('nav.contact') }}</a>
+      <a href="#section4" class="hover:underline" @click="scrollToSection(3)">{{ t('nav.faq') }}</a>
+      <a href="#section5" class="hover:underline" @click="scrollToSection(4)">{{ t('nav.contact') }}</a>
     </div>
 
     <!-- Language Dropdown -->

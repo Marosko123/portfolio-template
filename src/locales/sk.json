@@ -24,7 +24,8 @@
     "about": "O mne",
     "services": "Služby",
     "contact": "Kontakt",
-    "portfolio": "Portfólio"
+    "portfolio": "Portfólio",
+    "faq": "Často kladené otázky"
   },
   "footer": {
     "copyright": "Všetky práva vyhradené."
@@ -80,6 +81,31 @@
       "textMe": "V prípade záujmu ma kontaktujte na ",
       "callMe": " alebo mi zavolajte na ",
       "send": "Odoslať"
+    },
+    "faq": {
+      "title": "Často kladené otázky",
+      "items": [
+        {
+          "question": "Kde sa môžeme stretnúť?",
+          "answer": "Doučujem online cez Skype, Zoom alebo osobne v Trstenej."
+        },
+        {
+          "question": "Koľko hodín doučovania potrebujem?",
+          "answer": "Dĺžka doučovania závisí od Vašich cieľov a schopností. Odporúčam minimálne 1 hodinu týždenne."
+        },
+        {
+          "question": "Ako si môžem zarezervovať lekciu?",
+          "answer": "Kontaktujte ma emailom alebo telefonicky a dohodneme si termín lekcie."
+        },
+        {
+          "question": "Môžem si vybrať lekcie aj mimo pracovného času?",
+          "answer": "Áno, doučujem aj po pracovnej dobe a cez víkendy."
+        },
+        {
+          "question": "Môžem si vybrať lekcie aj mimo pracovného času?",
+          "answer": "Áno, doučujem aj po pracovnej dobe a cez víkendy."
+        }
+      ]
     },
     "pricing": {
       "title": "Cenník lekcií",
