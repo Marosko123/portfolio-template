@@ -13,6 +13,10 @@
       <ContactSection />
     </div>
 
+    <div class="scroll-area" data-section="faq">
+      <FAQSection />
+    </div>
+
     <div class="scroll-area" data-section="portfolio">
       <PortfolioSection />
     </div>
@@ -29,6 +33,7 @@ import AboutSection from './sections/AboutSection.vue'
 import PortfolioSection from './sections/PortfolioSection.vue'
 import ServicesSection from './sections/ServicesSection.vue'
 import ContactSection from './sections/ContactSection.vue'
+import FAQSection from './sections/FAQSection.vue'
 
 /**
  * Reaktívne premenné & referencie
