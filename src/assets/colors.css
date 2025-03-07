@@ -1,0 +1,24 @@
+:root {
+    --tan: #B68D40;
+    --cream: #F4EBD0;
+    --charcoal: #122620;
+    --gold: #D6AD60;
+}
+
+/* Background Colors */
+.bg-tan { background-color: var(--tan); }
+.bg-cream { background-color: var(--cream); }
+.bg-charcoal { background-color: var(--charcoal); }
+.bg-gold { background-color: var(--gold); }
+
+/* Text Colors */
+.text-tan { color: var(--tan); }
+.text-cream { color: var(--cream); }
+.text-charcoal { color: var(--charcoal); }
+.text-gold { color: var(--gold); }
+
+/* Border Colors */
+.border-tan { border-color: var(--tan); }
+.border-cream { border-color: var(--cream); }
+.border-charcoal { border-color: var(--charcoal); }
+.border-gold { border-color: var(--gold); }
